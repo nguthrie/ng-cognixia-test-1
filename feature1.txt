@@ -6,5 +6,10 @@ code written locally
 code written remotely
 code written remotely
 code written remotely
+<<<<<<< HEAD
 
 code written locally
+=======
+code written remotely
+code written remotely
+>>>>>>> 04c1ded289859a0db7fa9b995fa217c9b3ea7f6b
